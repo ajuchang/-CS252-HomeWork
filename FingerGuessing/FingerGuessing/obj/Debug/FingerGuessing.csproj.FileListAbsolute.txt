@@ -1,0 +1,6 @@
+c:\users\aju\documents\visual studio 2013\Projects\FingerGuessing\FingerGuessing\bin\Debug\FingerGuessing.exe.config
+c:\users\aju\documents\visual studio 2013\Projects\FingerGuessing\FingerGuessing\bin\Debug\FingerGuessing.exe
+c:\users\aju\documents\visual studio 2013\Projects\FingerGuessing\FingerGuessing\bin\Debug\FingerGuessing.pdb
+c:\users\aju\documents\visual studio 2013\Projects\FingerGuessing\FingerGuessing\obj\Debug\FingerGuessing.csprojResolveAssemblyReference.cache
+c:\users\aju\documents\visual studio 2013\Projects\FingerGuessing\FingerGuessing\obj\Debug\FingerGuessing.exe
+c:\users\aju\documents\visual studio 2013\Projects\FingerGuessing\FingerGuessing\obj\Debug\FingerGuessing.pdb
